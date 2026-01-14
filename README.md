@@ -27,7 +27,6 @@ Gra składa się z trzech głównych etapów:
 
 ---
 
-## Struktura projektu
 
 ## Struktura projektu
 
@@ -48,7 +47,6 @@ EcoJumper/
 │
 └── README.md
 
-
 ```
 
 ---
@@ -66,7 +64,6 @@ EcoJumper/
 
 ### Uruchomienie w IntelliJ IDEA:
 1. Otworz katalog projektu ```EcoJumper```
-
 2. Upewnij się, że katalog assets/ znajduje się w projekcie
 3. Otwórz plik ```EcoJumperGame.java```
 4. Uruchom aplikację
